@@ -26,6 +26,8 @@
 
 </details>
 
+Hello
+
 ## Introduction
 
 We are ready to start making 2d games using the knowledge we have gained so far in HTML, CSS, and JavaScript. In this exercise, we will create a **Race Car** game using DOM manipulation, classes, and object-oriented programming (OOP).
